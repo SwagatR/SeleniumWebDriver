@@ -1,0 +1,14 @@
+<suite name="new Suite">
+	<test name="new Test">
+		<classes>
+			<class name="testNgDemos.multipleTests">
+				<methods>
+					<method>
+						<exclude name="openFlipkart">
+						</exclude>
+					</method>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

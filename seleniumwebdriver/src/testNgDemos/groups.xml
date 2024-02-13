@@ -1,0 +1,14 @@
+<suite name="My suite">
+	<test name="My Test">
+		<classes>
+			<class name="testNgDemos.D06openRediff">
+			</class>
+		</classes>
+		<groups>
+			<run>
+				<include name="leftSides">
+				</include>
+			</run>
+		</groups>
+	</test>
+</suite>
